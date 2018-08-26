@@ -6,4 +6,4 @@ It publishes one tweet every 12 hours. To look up word definitions, it goes insi
 
 Someday I would like to make it a spaced repetition bot.
 
-Right now, it is posting from its Twitter acc: [botvocab](https://twitter.com/barronthebot)  :heart:
+Right now, it is posting from its Twitter acc: [barronthebot](https://twitter.com/barronthebot)  :heart:
